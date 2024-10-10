@@ -1,8 +1,61 @@
-# React + Vite
+# Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a portfolio website created using React and Tailwind CSS. The layout is completed, showcasing various sections to highlight projects, skills, and contact information.
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Demo Image](link-to-your-demo-image)
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Contact](#contact)
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/riteshkumarkarn/portfolio-website.git
+   ```
+2. Navigate into the project directory:
+
+```bash
+cd portfolio-website
+```
+
+3. Install dependecies:
+
+```bash
+npm install
+```
+
+4. Start the development server:
+
+```bash
+npm run dev
+```
+
+5. Open your browser and navigate to http://localhost:5173.
+
+## Usage
+
+- Explore the Website: Once the development server is running, you can explore the different sections of the portfolio website.
+- Contact Me: Find my contact information in the relevant section to get in touch.
+
+## Credits
+
+- Icons: Icons used in this project were sourced from SVGRepo.
+- Development Tools:
+  - React.js
+  - Tailwind CSS
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact
+
+For any inquiries or issues, please contact me at [gmail](riteshkumarkarn414@gmail.com).
