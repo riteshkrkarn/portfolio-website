@@ -5,6 +5,7 @@ export default {
     extend: {},
     fontFamily: {
       signature: ["Alex Brush"],
+      poppins: ["Poppins", "sans-serif"],
     },
   },
   plugins: [],

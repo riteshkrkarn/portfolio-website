@@ -15,7 +15,7 @@ function MainBox() {
 
   return (
     <>
-      <div className="h-screen flex flex-col justify-between">
+      <div className="h-screen flex flex-col justify-between font-poppins">
         <div className="w-fit">
           <h1 className="font-signature text-4xl p-2 font-bold w-fit">
             Ritesh
