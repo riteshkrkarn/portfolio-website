@@ -2,10 +2,6 @@
 
 This is a portfolio website created using React and Tailwind CSS. The layout is completed, showcasing various sections to highlight projects, skills, and contact information.
 
-## Demo
-
-![Demo Image](link-to-your-demo-image)
-
 ## Table of Contents
 
 - [Installation](#installation)
