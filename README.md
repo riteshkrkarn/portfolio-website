@@ -54,4 +54,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Contact
 
-For any inquiries or issues, please contact me at [gmail](riteshkumarkarn414@gmail.com).
+For any inquiries, you can reach me at riteshkumarkarn414@gmail.com or connect with me on <a href="https://www.linkedin.com/in/ritesh-kumar-karn-ab90a9247/">LinkedIn</a>.
