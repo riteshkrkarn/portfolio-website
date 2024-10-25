@@ -22,10 +22,10 @@ const ProjectsPage = () => {
           <div className="w-fit  mt-2 mx-auto text-2xl md:text-4xl lg:text-2xl text-center underline underline-offset-4">
             <h1>Projects</h1>
           </div>
-          <div className="w-3/5 text-center text-sm md:text-2xl lg:text-lg m-4 md:m-12 mx-auto p-1 md:p-2 ">
+          <div className="w-3/5 text-center text-sm md:text-2xl lg:text-lg m-4 md:m-12 md:my-4 mx-auto p-1 md:p-2 ">
             <p>These are some of the projects I've made.</p>
           </div>
-          <div>
+          <div className="flex flex-col justify-center items-center gap-4">
             <ProjectCard
               heading="Tic Tac Toe Game"
               description="This is a responsive Tic Tac Toe game developed using HTML, CSS, and JavaScript. The game allows two players to play against each other on the same device."
@@ -42,8 +42,7 @@ const ProjectsPage = () => {
             <ProjectCard
               heading="Fetch Weather App"
               description="This is a weather fetch app built using React.js, Tailwind CSS, and
-            Vite. This is my first project using these technologies. It allows
-            users to fetch and view weather information based on their location
+            Vite. It allows users to fetch and view weather information based on their location
             or city input."
               projectSS={FetchWeather}
               skill1={htmlLogo}
@@ -73,20 +72,7 @@ const ProjectsPage = () => {
               gitHub={githubLogo}
             />
           </div>
-          <div className="border border-black bg-zinc-100 m-2 flex flex-col">
-            <h1></h1>
-            <p></p>
-            <div></div>
-            <div></div>
-            <div></div>
-          </div>
-          <div className="border border-black bg-zinc-100 m-2 flex flex-col">
-            <h1></h1>
-            <p></p>
-            <div></div>
-            <div></div>
-            <div></div>
-          </div>
+          <div className="my-8 lg:my-2"></div>
         </div>
       </div>
     </>

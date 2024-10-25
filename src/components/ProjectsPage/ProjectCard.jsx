@@ -4,14 +4,14 @@ const ProjectCard = (props) => {
   return (
     <>
       <div>
-        <div className="border border-black bg-zinc-100 m-4 flex flex-col rounded-2xl p-2">
+        <div className="md:w-1/2 lg:w-2/5 border border-black bg-zinc-100 m-4 flex flex-col  rounded-2xl p-2 md:mx-auto">
           <h1 className="text-xl text-center px-2">{props.heading}</h1>
-          <p className="px-4 py-2 text-sm">{props.description}</p>
+          <p className="px-4 py-2 text-sm break-words">{props.description}</p>
           <div className=" p-4 flex justify-center items-center">
             <img
               src={props.projectSS}
-              alt="Fetch Weather App"
-              className="w-64 h-64 object-contain"
+              alt={props.heading}
+              className="w-64 h-64 object-contain max-w-full"
             />
           </div>
           <div className="flex justify-between">

@@ -15,7 +15,7 @@ function Sidebar() {
   return (
     <>
       <div>
-        <div className="w-fit">
+        <div className="w-fit lg:fixed">
           <h1 className="font-signature text-2xl md:text-4xl p-2 font-bold w-fit">
             Ritesh
           </h1>
@@ -59,7 +59,6 @@ function Sidebar() {
             />
           </div>
         </div>
-        <div className="border hidden lg:block w-px h-screen border-black absolute top-0 left-24"></div>
       </div>
     </>
   );
