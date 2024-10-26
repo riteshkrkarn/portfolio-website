@@ -56,4 +56,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Contact
 
-For any inquiries or issues, please contact me at [gmail](riteshkumarkarn414@gmail.com).
+For any inquiries or issues, please contact me at <span style="color: #70B0FF;">**riteshkumarkarn414@gmail.com**</span>.
