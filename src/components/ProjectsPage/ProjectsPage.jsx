@@ -58,7 +58,7 @@ const ProjectsPage = () => {
             />
             <ProjectCard
               heading="Portfolio Website"
-              description="This is a portfolio website created using React and Tailwind CSS. The layout is completed, showcasing various sections to highlight projects, skills, and contact information."
+              description="This is the frontend layout of my portfolio website created using React and Tailwind CSS. It showcases various sections to highlight projects, skills, and contact information."
               projectSS={Portfolio}
               skill1={htmlLogo}
               skill1Alt="HTML"

@@ -1,6 +1,6 @@
 # Portfolio Website
 
-This is a portfolio website created using React and Tailwind CSS. The layout is completed, showcasing various sections to highlight projects, skills, and contact information.
+This is the frontend layout of my portfolio website created using React and Tailwind CSS. It showcases various sections to highlight projects, skills, and contact information.
 
 ## Table of Contents
 
@@ -13,9 +13,11 @@ This is a portfolio website created using React and Tailwind CSS. The layout is 
 ## Installation
 
 1. Clone the repository:
-   ```bash
+
+```bash
    git clone https://github.com/riteshkumarkarn/portfolio-website.git
-   ```
+```
+
 2. Navigate into the project directory:
 
 ```bash
