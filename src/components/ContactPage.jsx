@@ -55,7 +55,7 @@ const ContactPage = () => {
                   placeholder="Enter your message"
                 ></textarea>
               </div>
-              <div className="border border-black w-fit flex mx-auto p-2">
+              <div className="w-fit flex mx-auto p-2">
                 <div className="w-10 h-10 border border-black rounded-full m-1 bg-cyan-50">
                   <a
                     href="https://www.linkedin.com/in/ritesh-kumar-karn-ab90a9247/"
