@@ -56,7 +56,7 @@ const ContactPage = () => {
                 ></textarea>
               </div>
               <div className="border border-black w-fit flex mx-auto p-2">
-                <div className="w-10 h-10 border border-black rounded-full m-1">
+                <div className="w-10 h-10 border border-black rounded-full m-1 bg-cyan-50">
                   <a
                     href="https://www.linkedin.com/in/ritesh-kumar-karn-ab90a9247/"
                     target="_blank"
@@ -68,7 +68,7 @@ const ContactPage = () => {
                     />
                   </a>
                 </div>
-                <div className="w-10 h-10 border border-black rounded-full m-1">
+                <div className="w-10 h-10 border border-black rounded-full m-1 bg-cyan-50">
                   <a
                     href="https://www.instagram.com/riteshkrkarn/"
                     target="_blank"
@@ -80,12 +80,12 @@ const ContactPage = () => {
                     />
                   </a>
                 </div>
-                <div className="w-10 h-10 border border-black rounded-full m-1">
+                <div className="w-10 h-10 border border-black rounded-full m-1 bg-cyan-50">
                   <a href="https://x.com/riteshkrkarn" target="_blank">
                     <img src={x} alt="X" className="object-contain p-1" />
                   </a>
                 </div>
-                <div className="w-10 h-10 border border-black rounded-full m-1">
+                <div className="w-10 h-10 border border-black rounded-full m-1 bg-cyan-50">
                   <a href="https://github.com/riteshkumarkarn" target="_blank">
                     <img
                       src={gitHub}
