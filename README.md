@@ -2,7 +2,7 @@
 
 This is the frontend layout of my portfolio website created using React and Tailwind CSS. It showcases various sections to highlight projects, skills, and contact information.
 
-![Portfolio](https://github.com/user-attachments/assets/03332fdd-b493-4f7e-ace9-cb569646cad2)
+![Portfolio](./assets/Projects/Portfolio.png)
 
 ## Table of Contents
 
