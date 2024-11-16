@@ -2,6 +2,8 @@
 
 This is the frontend layout of my portfolio website created using React and Tailwind CSS. It showcases various sections to highlight projects, skills, and contact information.
 
+**Note:** Dark mode is yet to be added.
+
 ![Portfolio](./src/assets/Projects/Portfolio.png)
 
 ## Table of Contents
