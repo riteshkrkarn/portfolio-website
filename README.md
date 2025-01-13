@@ -23,7 +23,7 @@ This is the frontend layout of my portfolio website created using React and Tail
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/riteshkumarkarn/portfolio-website.git
+   git clone https://github.com/riteshkrkarn/portfolio-website.git
 ```
 
 2. Navigate into the project directory:
