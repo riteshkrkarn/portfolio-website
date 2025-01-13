@@ -59,7 +59,7 @@ const ContactPage = () => {
                 <div className="w-fit flex mx-auto p-2">
                   <div className="w-10 h-10 border border-black rounded-full m-1 bg-cyan-50">
                     <a
-                      href="https://www.linkedin.com/in/ritesh-kumar-karn-ab90a9247/"
+                      href="https://www.linkedin.com/in/riteshkrkarn/"
                       target="_blank"
                     >
                       <img
@@ -88,7 +88,7 @@ const ContactPage = () => {
                   </div>
                   <div className="w-10 h-10 border border-black rounded-full m-1 bg-cyan-50">
                     <a
-                      href="https://github.com/riteshkumarkarn"
+                      href="https://github.com/riteshkrkarn"
                       target="_blank"
                     >
                       <img
