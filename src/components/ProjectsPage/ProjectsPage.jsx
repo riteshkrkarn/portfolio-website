@@ -36,7 +36,7 @@ const ProjectsPage = () => {
               skill2Alt="CSS"
               skill3={jsLogo}
               skill3Alt="Javscript"
-              projectLink="https://github.com/riteshkumarkarn/tic-tac-toe-game"
+              projectLink="https://github.com/riteshkrkarn/tic-tac-toe-game"
               gitHub={githubLogo}
             />
             <ProjectCard
@@ -53,7 +53,7 @@ const ProjectsPage = () => {
               skill3Alt="React"
               skill4={tailwindLogo}
               skill4Alt="Tailwind"
-              projectLink="https://github.com/riteshkumarkarn/fetch-weather"
+              projectLink="https://github.com/riteshkrkarn/fetch-weather"
               gitHub={githubLogo}
             />
             <ProjectCard
@@ -68,7 +68,7 @@ const ProjectsPage = () => {
               skill3Alt="React"
               skill4={tailwindLogo}
               skill4Alt="Tailwind"
-              projectLink="https://github.com/riteshkumarkarn/portfolio-website"
+              projectLink="https://github.com/riteshkrkarn/portfolio-website"
               gitHub={githubLogo}
             />
           </div>
