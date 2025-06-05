@@ -7,7 +7,7 @@ function HomePage() {
         <div className="flex flex-col justify-center items-center h-full">
           <div className="border border-zinc-300 w-fit h-fit p-6 rounded-lg mx-auto bg-zinc-300 mt-3 md:mt-10">
             <h1 className="text-3xl md:text-4xl font-bold">
-              Frontend Developer
+              Full Stack Developer
             </h1>
           </div>
 
